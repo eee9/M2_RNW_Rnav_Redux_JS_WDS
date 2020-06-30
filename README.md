@@ -1,7 +1,7 @@
 M2_RNW_Rnav_Redux_JS_WDS
 
 K6U.
-Boilerplate (type M1) for React, React Native Web, React Navigation, Redux, JavaScript, webpack-dev-server.
+Boilerplate (type M2) for React, React Native Web, React Navigation, Redux, JavaScript, webpack-dev-server.
 
 React Navigation example from
 https://reactnavigation.org/docs/navigating/
